@@ -22,11 +22,11 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/jeka/lens",
+          "remote": "https://github.com/lensapp/lens",
           "subdir": "jsonnet"
         }
       },
-      "version": "patch-1",
+      "version": "master",
       "name": "lens"
     }
   ],
